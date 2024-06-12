@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Demo IoT</string>
+    <string name="cycle">cycle</string>
+    <string name="flow1">flow1</string>
+    <string name="flow2">flow2</string>
+    <string name="flow3">flow3</string>
+    <string name="area">area</string>
+    <string name="start">start</string>
+    <string name="twodot">:</string>
+    <string name="end">end</string>
+    <string-array name="area_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
