@@ -47,7 +47,7 @@ package bku.iot.demoiot;
 public class MainActivity extends AppCompatActivity {
     MQTTHelper mqttHelper;
     String username = "IOT_232";
-    String key = "aio_xFUL59qqqxI2zRyHHKjxwv9cwQcG";
+    String key = "";
     int ADD_ACTIVITY_REQUEST_CODE = 1;
     String cycle, flow1, flow2, flow3, hour1, minute1, hour2, minute2, area;
     TextView txtTemp, txtTime, txtHumid, txtStatus, txtTemp_Predict, txtHumid_Predict;
